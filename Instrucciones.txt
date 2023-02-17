@@ -1,2 +1,0 @@
-1.- Get_info.py - Se ejecuta para scrapear la información de Glassdoor. 
-    Manda a llamar funciones de Glassdoor_Scraper.py. Genera el archivo .csv
