@@ -9,7 +9,9 @@ https://medium.com/@benjaminrohan010/scraping-glassdoor-using-selenium-and-pytho
 ## Steps
 
 1.- Run Get_info.py to get the data from glassdoor. (It uses functions from Glassdoor_Scraper.py)
+
     It will create a CSV file (data scientist.csv)
 
 2.- Run Data Cleaning.ipynb to clean the CSV file. 
+
     It will create another CSV file (data scientist cleaned.csv)
