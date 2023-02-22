@@ -6,7 +6,7 @@
 
 - Engineered features from the text of each job description to quantify the value companies put on Python, SAS, Spark, Matlab, Hadoop, Tensorflow, Pytorch and Tableau.
  
-- Optimized Linear, Lasso Regresion and Random Forest Regressors using GridsearchCV to reach the best model.
+- Optimized Linear, Lasso and Random Forest Regressors using GridsearchCV to reach the best model.
 
 
 
