@@ -1,5 +1,15 @@
-# Salary_Prediction
-Data Science Salary Prediction
+# Data Science Salary Prediction Estimator in Canada
+
+- Created a tool that estimates data science salaries (MAE ~ $ 2.8k) to help data scientists negotiate their income when they get a job.
+
+- Scraped over 450 job descriptions from glassdoor Canada using python and selenium
+
+- Engineered features from the text of each job description to quantify the value companies put on Python, SAS, Spark, Matlab, Hadoop, Tensorflow, Pytorch and Tableau.
+ 
+- Optimized Linear, Lasso Regresion and Random Forest Regressors using GridsearchCV to reach the best model.
+
+
+
 ## Resources
 
 https://github.com/rohan-benjamin/Glassdoor-Scraper-Final
