@@ -21,6 +21,10 @@
 
 **Glassdoor Scraper Article**: https://medium.com/@benjaminrohan010/scraping-glassdoor-using-selenium-and-python-2022-bd0065775aec
 
+## YouTube Project Walk-Through
+
+https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
 ## Steps
 
 1.- Run Get_info.py to get the data from glassdoor. (It uses functions from Glassdoor_Scraper.py)
