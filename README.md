@@ -61,4 +61,4 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
    
 3.- Exploratory Data Analysis
 
- Data distribution as well as counts of values for categorical variables were analyzed and examined. The following are a few highlights from the pivot tables.
+    Data distribution as well as counts of values for categorical variables were analyzed and examined. The following are a few highlights from the pivot tables.
