@@ -67,4 +67,5 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
     
    ![graph_cities](https://user-images.githubusercontent.com/21091686/220508186-e3c395db-c3a6-4d6e-bfeb-53c03c043644.png)
 
-   ![graph_cities](https://user-images.githubusercontent.com/21091686/220508481-665bf6f7-3649-44b3-9f9d-b2eaac948a8c.png)
+   ![seniority_estimated_salary](https://user-images.githubusercontent.com/21091686/220508562-970f7bd4-90b3-4aeb-ae53-40b6e6b605f3.png)
+
