@@ -11,9 +11,9 @@
 
 
 ## Resources
-**Python Version**:3.9.13
+**Python Version**: 3.9.13
 
-**Packages**: Pandas, NumPy, Matplotlib, Seaborn, Selenium, Wordcloud
+**Packages**: Pandas, NumPy, Matplotlib, Seaborn, Selenium==4.8.0, Wordcloud==1.8.2.2
 
 **Tutorial**: https://github.com/PlayingNumbers/ds_salary_proj
 
