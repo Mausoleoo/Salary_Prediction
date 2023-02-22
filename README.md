@@ -64,5 +64,6 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
     Data distribution as well as counts of values for categorical variables were analyzed and examined. 
     The following are a few highlights from the pivot tables.
     
-    ![image](https://user-images.githubusercontent.com/21091686/220507935-0e805738-d6e3-49eb-996a-4b5ca97eaef4.png)
+    
+   ![graph_cities](https://user-images.githubusercontent.com/21091686/220508186-e3c395db-c3a6-4d6e-bfeb-53c03c043644.png)
 
