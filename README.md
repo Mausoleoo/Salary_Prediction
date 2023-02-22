@@ -34,3 +34,28 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 2.- Run Data Cleaning.ipynb to clean the CSV file. 
 
     It will create another CSV file (data scientist cleaned.csv)
+    
+    > After cleaning the data, the following columns were obtained from each job.
+    * Estimated salary
+    * Company
+    * Job title
+    * Location
+    * Job description
+    * Company size
+    * Company type
+    * Company sector
+    * Company industry
+    * Age
+    * Company revenue
+    * Rating
+    * Python is needed
+    * SAS is needed
+    * Tableau is needed
+    * Matlab is needed
+    * Spark is needed
+    * Tensorflow is needed
+    * Pytorch is needed
+    * Hadoop is needed
+    * Seniority
+    * Title Simplified
+   
