@@ -69,3 +69,4 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
    ![seniority_estimated_salary](https://user-images.githubusercontent.com/21091686/220508562-970f7bd4-90b3-4aeb-ae53-40b6e6b605f3.png)
 
+   ![frequent_words](https://user-images.githubusercontent.com/21091686/220508684-d363ead1-df1b-4f10-8fc9-96b8dddc0005.png)
