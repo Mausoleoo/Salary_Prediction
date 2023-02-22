@@ -11,6 +11,7 @@
 
 
 ## Resources
+https://github.com/PlayingNumbers/ds_salary_proj
 
 https://github.com/rohan-benjamin/Glassdoor-Scraper-Final
 
