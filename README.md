@@ -29,11 +29,11 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 1.- Run Get_info.py to get the data from glassdoor. (It uses functions from Glassdoor_Scraper.py)
 
-    It will create a CSV file (data scientist.csv)
+    It will create a CSV file (data scientist Canada.csv)
 
 2.- Run Data Cleaning.ipynb to clean the CSV file. 
 
-    It will create another CSV file (data scientist cleaned.csv)
+    It will create another CSV file (data scientist Canada cleaned.csv)
     
     > After cleaning the data, the following columns were obtained from each job.
     * Estimated salary
@@ -59,7 +59,7 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
     * Seniority
     * Title Simplified
    
-3.- Exploratory Data Analysis
+3.- Run Data_EDA.ipynb to Data Analysis (Exploratory Data Analysis)
 
     Data distribution as well as counts of values for categorical variables were analyzed and examined. 
     The following are a few highlights from the pivot tables.
@@ -70,3 +70,17 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
    ![seniority_estimated_salary](https://user-images.githubusercontent.com/21091686/220508562-970f7bd4-90b3-4aeb-ae53-40b6e6b605f3.png)
 
    ![frequent_words](https://user-images.githubusercontent.com/21091686/220508684-d363ead1-df1b-4f10-8fc9-96b8dddc0005.png)
+   
+4.- Run Model Building.ipynb to train and test models
+    
+    a) The categorical variables were created into dummy variables and the data were split into training and test.
+    
+    b) Three different models were compared: Multiple Linear Regression, Lasso Regression and Random Forest.
+       The models were evaluated using Mean Absolute Error.
+       
+5.- Model Performance
+    
+    - Multiple Linear Regression: MAE = 23,764.03
+    - Lasso Regression: MAE = 3,211.27
+    - Random Forest: MAE = 2,832.47
+    
