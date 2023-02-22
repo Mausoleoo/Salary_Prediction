@@ -11,11 +11,15 @@
 
 
 ## Resources
-https://github.com/PlayingNumbers/ds_salary_proj
+**Python Version**:3.9.13
 
-https://github.com/rohan-benjamin/Glassdoor-Scraper-Final
+**Packages**: Pandas, NumPy, Matplotlib, Seaborn, Selenium, Wordcloud
 
-https://medium.com/@benjaminrohan010/scraping-glassdoor-using-selenium-and-python-2022-bd0065775aec
+**Tutorial**: https://github.com/PlayingNumbers/ds_salary_proj
+
+**Glassdoor Scraper**: https://github.com/rohan-benjamin/Glassdoor-Scraper-Final
+
+**Glassdoor Scraper Article**: https://medium.com/@benjaminrohan010/scraping-glassdoor-using-selenium-and-python-2022-bd0065775aec
 
 ## Steps
 
