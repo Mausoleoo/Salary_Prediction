@@ -14,8 +14,7 @@ def fetch_jobs(keyword, num_pages, path):
     #Enter your chromedriver.exe path below
     chrome_path = path
     driver = webdriver.Chrome(executable_path=chrome_path, options=options)
-    #url = 'https://www.glassdoor.ca/Job/canada-' + keyword + '-jobs-SRCH_IL.0,6_IN3_KO7,19.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=&typedLocation=Canada&context=Jobs&dropdown=0'
-    #url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
+    #This link is for glassdoor Canada
     url = 'https://www.glassdoor.ca/Job/canada-jobs-SRCH_IL.0,6_IN3.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=&typedLocation=Canada&context=Jobs&dropdown=0'
     driver.get(url)
     search_input = driver.find_element(By.ID,"sc.keyword")
