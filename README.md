@@ -21,9 +21,6 @@
 
 **Glassdoor Scraper Article**: https://medium.com/@benjaminrohan010/scraping-glassdoor-using-selenium-and-python-2022-bd0065775aec
 
-## YouTube Project Walk-Through
-
-https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## Steps
 
@@ -83,4 +80,8 @@ https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
     - Multiple Linear Regression: MAE = 23,764.03
     - Lasso Regression: MAE = 3,211.27
     - Random Forest: MAE = 2,832.47
-    
+
+
+## YouTube Project Walk-Through
+
+https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
